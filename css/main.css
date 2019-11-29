@@ -370,4 +370,8 @@ nav a:hover {
     h3 {
         page-break-after: avoid;
     }
+    body {
+        Width : 100% ;
+        Height : 100%
+        }
 }
